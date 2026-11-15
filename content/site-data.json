@@ -84,18 +84,15 @@
   "education": [
     {
       "degree": "Ph.D., Computer Science & Engineering",
-      "institution": "College of Engineering (Autonomous), Andhra University, Visakhapatnam",
-      "year": "2012"
+      "institution": "College of Engineering (Autonomous), Andhra University, Visakhapatnam"
     },
     {
       "degree": "M.S., Computer Science",
-      "institution": "University of Oklahoma, USA",
-      "year": "2003"
+      "institution": "University of Oklahoma, USA"
     },
     {
       "degree": "B.Tech., Computer Science & System Engineering",
-      "institution": "GITAM, affiliated to Andhra University, Visakhapatnam",
-      "year": "2001"
+      "institution": "GITAM, affiliated to Andhra University, Visakhapatnam"
     }
   ],
   "projects": [
