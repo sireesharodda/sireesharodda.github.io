@@ -135,49 +135,266 @@
     "CSI National-level Active Participation (Woman) Award (2016)"
   ],
   "publications": [
-    {
-      "year": "2025",
-      "title": "Comparative review on automated test failure detection and healing tools",
-      "authors": "Kumar, Nammi Hemanth; Rodda, Sireesha",
-      "venue": "SSRG International Journal of Electrical and Electronics Engineering, 12(2), 113–123",
-      "links": []
-    },
-    {
-      "year": "2025",
-      "title": "Dental image analysis for caries recognition domain: AI/ML",
-      "authors": "Challakonda, Deepthika; Raza, Muskaan; Koppisetti, Chinni Krishna; Manikonda, Akshay; Rodda, Sireesha",
-      "venue": "International Conference on Machine Learning, IoT and Big Data, Springer Nature",
-      "links": []
-    },
-    {
-      "year": "2024",
-      "title": "Enhancing decision making through aspect based sentiment analysis using deep learning models",
-      "authors": "Puvvula, Deepika; Rodda, Sireesha",
-      "venue": "Mathematical Modelling of Engineering Problems, 11(10)",
-      "links": []
-    },
-    {
-      "year": "2024",
-      "title": "A multi-modal automated driver alert system based on deep learning",
-      "authors": "Dereddi, Nishanth Reddy; Rodda, Sireesha; Buddharaju, Soujanya",
-      "venue": "International Conference on Computer & Communication Technologies (IC3T 2024), Springer Nature Singapore",
-      "links": []
-    },
-    {
-      "year": "2022",
-      "title": "Penguin rider optimization algorithm-based deep recurrent neural network for sentiment classification of political Twitter data",
-      "authors": "Harendranath, Vegi; Rodda, Sireesha",
-      "venue": "International Journal of Web Services Research, 19(1), 1–25",
-      "links": []
-    },
-    {
-      "year": "2022",
-      "title": "Dynamic pagerank frequent subgraph mining by GraphX in the distributed system",
-      "authors": "Priyadarshini, Sadhana; Rodda, Sireesha",
-      "venue": "2022 International Conference on Automation, Computing and Renewable Systems (ICACRS), IEEE",
-      "links": []
-    }
-  ],
+  {
+    "title": "A hybrid transformer architecture for unsupervised aspect-based sentiment analysis",
+    "authors": "D. Puvvula, S. Rodda",
+    "journal": "ETRI Journal, Wiley, pp. 1–19",
+    "year": "2026",
+    "doi": "10.4218/etrij.2025-0094"
+  },
+  {
+    "title": "Dental image analysis for caries recognition domain: AI/ML",
+    "authors": "D. Challakonda, M. Raza, C.K. Koppisetti, A. Manikonda, S. Rodda",
+    "journal": "Intelligent Systems (ICMIB 2025), Lecture Notes in Networks and Systems, Vol. 1624, Springer, pp. 36–47",
+    "year": "2026"
+  },
+  {
+    "title": "Comparative review on automated test failure detection and healing tools",
+    "authors": "N.H. Kumar, S. Rodda",
+    "journal": "SSRG International Journal of Electrical and Electronics Engineering, 12(2), pp. 113–123",
+    "year": "2025"
+  },
+  {
+    "title": "Enhancing decision making through aspect based sentiment analysis using deep learning models",
+    "authors": "D. Puvvula, S. Rodda",
+    "journal": "Mathematical Modelling of Engineering Problems, 11(10)",
+    "year": "2024"
+  },
+  {
+    "title": "A multi-modal automated driver alert system based on deep learning",
+    "authors": "N.R. Dereddi, S. Rodda, S. Buddharaju",
+    "journal": "IC3T 2024, Springer, pp. 421–430",
+    "year": "2024"
+  },
+  {
+    "title": "Penguin rider optimization algorithm-based deep recurrent neural network for sentiment classification of political Twitter data",
+    "authors": "V. Harendranath, S. Rodda",
+    "journal": "International Journal of Web Services Research, 19(1), pp. 1–25, IGI Global",
+    "year": "2022"
+  },
+  {
+    "title": "Instance segmentation and labeling of teeth from dental X-ray using region based convolutional neural network",
+    "authors": "S. Rodda, V. Kovela, S. Dokula",
+    "journal": "Journal of Neutrosophic and Fuzzy Systems, 2(2), pp. 20–30",
+    "year": "2022"
+  },
+  {
+    "title": "Dynamic pagerank frequent subgraph mining by GraphX in the distributed system",
+    "authors": "S. Priyadarshini, S. Rodda",
+    "journal": "ICACRS 2022, IEEE, pp. 63–71",
+    "year": "2022"
+  },
+  {
+    "title": "Giraph dynamic sized structure recurrent subgraph generation algorithm for frequent subgraph mining",
+    "authors": "S. Priyadarshini, S. Rodda",
+    "journal": "IEEE CCET 2022, pp. 1–7",
+    "year": "2022"
+  },
+  {
+    "title": "On the convergence and optimality of the firefly algorithm for opportunistic spectrum access",
+    "authors": "L.R. Kalabarige, S. Rodda, S. Chilukuri",
+    "journal": "International Journal of Advanced Intelligence Paradigms, 18(2), pp. 119–133",
+    "year": "2021"
+  },
+  {
+    "title": "Enhanced DBSCAN with hierarchical tree for web rule mining",
+    "authors": "N. Gullipalli, S. Rodda",
+    "journal": "Scalable Computing: Practice and Experience, 21(2), pp. 189–202",
+    "year": "2020"
+  },
+  {
+    "title": "Mobile sink as checkpoints for fault detection towards fault tolerance in wireless sensor networks",
+    "authors": "P. Parwekar, S. Rodda, P. Kaur",
+    "journal": "Sensor Technology: Concepts, Methodologies, Tools, and Applications, IGI Global, pp. 414–425",
+    "year": "2020"
+  },
+  {
+    "title": "Map Reduce based optimized frequent subgraph mining algorithm for large graph database",
+    "authors": "S. Priyadarshini, S. Rodda",
+    "journal": "International Journal of Engineering and Advanced Technology",
+    "year": "2020"
+  },
+  {
+    "title": "Frequent subgraph mining by Giraph distributed system",
+    "authors": "S. Priyadarshini, S. Rodda",
+    "journal": "International Journal of Engineering and Advanced Technology, 9, pp. 1267–1275",
+    "year": "2020"
+  },
+  {
+    "title": "Reduct ECOC framework for network intrusion detection system",
+    "authors": "U. Erothi, S. Rodda",
+    "journal": "International Journal of Engineering, 9(3), pp. 258–266",
+    "year": "2020"
+  },
+  {
+    "title": "Survey on testing technique for modern web application – rookies vantage point",
+    "authors": "M.V. Bharathi, S. Rodda",
+    "journal": "International Journal of Networking and Virtual Organisations, 21(2), pp. 277–288",
+    "year": "2019"
+  },
+  {
+    "title": "Survey on techniques of fault detection – rookies vantage point",
+    "authors": "M.V. Bharathi, S. Rodda",
+    "journal": "International Journal of Intelligent Systems Technologies and Applications, 18(1–2), pp. 133–141",
+    "year": "2019"
+  },
+  {
+    "title": "Gideon – An artificial intelligent companion",
+    "authors": "M. Pranay, H.V. Rajkumari, S. Rodda, Y. Srinivas, P. Anuradha",
+    "journal": "SCI 2018, Vol. 2, Springer, pp. 245–252",
+    "year": "2019"
+  },
+  {
+    "title": "Keyboard-less online shopping for the visually impaired using NLP and face recognition",
+    "authors": "S. Rallabhandy, S. Rodda",
+    "journal": "SCI 2018, Vol. 2, Springer, pp. 253–260",
+    "year": "2019"
+  },
+  {
+    "title": "Geometric multi-way frequent subgraph mining approach to a single large database",
+    "authors": "S. Priyadarshini, S. Rodda",
+    "journal": "SCI 2018, Vol. 2, Springer, pp. 233–244",
+    "year": "2019"
+  },
+  {
+    "title": "Face recognition with voice assistance for the visually challenged",
+    "authors": "G.S. Chakravarthy, K. Anupam, P.N.S.H. Varma, G.H. Teja, S. Rodda",
+    "journal": "International Conference on Intelligent Computing and Communication, Springer, pp. 701–709",
+    "year": "2019"
+  },
+  {
+    "title": "Prolonging the network life in wireless sensors network – using refined region of interest",
+    "authors": "P. Parwekar, S. Rodda",
+    "journal": "International Journal of Advanced Intelligence Paradigms, 10(4), pp. 344–353",
+    "year": "2018"
+  },
+  {
+    "title": "A roughset based ensemble framework for network intrusion detection system",
+    "authors": "S. Rodda, U.S. Erothi",
+    "journal": "International Journal of Rough Sets and Data Analysis, 5(3), pp. 71–88, IGI Global",
+    "year": "2018"
+  },
+  {
+    "title": "A sentimental insight into the 2016 Indian banknote demonetization",
+    "authors": "R.D. Missula, S.N.R. Uppuluru, S. Rodda",
+    "journal": "INDIA 2017, Springer, pp. 955–962",
+    "year": "2018"
+  },
+  {
+    "title": "A study of the optimization techniques for wireless sensor networks (WSNs)",
+    "authors": "P. Parwekar, S. Rodda, N. Kalla",
+    "journal": "INDIA 2017, Springer, pp. 909–915",
+    "year": "2018"
+  },
+  {
+    "title": "Localization of sensors by base station in wireless sensor networks",
+    "authors": "P. Parwekar, S. Rodda",
+    "journal": "Journal of Scientific and Industrial Research, 77(2), pp. 83–86",
+    "year": "2018"
+  },
+  {
+    "title": "Differentiated caching for improved QoS in vehicular content-centric networks",
+    "authors": "K. Swaroopa, S. Rodda, S. Chilukuri",
+    "journal": "International Journal of Computer Science and Engineering, 6(10), pp. 317–322",
+    "year": "2018"
+  },
+  {
+    "title": "Data transformation technique for preserving privacy in data",
+    "authors": "U.S.R. Erothi, S. Rodda",
+    "journal": "International Journal of Computer Science and Engineering, 6(5), pp. 42–50",
+    "year": "2018"
+  },
+  {
+    "title": "Selection of commercially viable areas for taxi drivers using Big Data",
+    "authors": "K. Devabhakthuni, B. Munukurthi, S. Rodda",
+    "journal": "SCI 2018, Vol. 2, Springer, pp. 517–525",
+    "year": "2018"
+  },
+  {
+    "title": "Optimization of clustering in wireless sensor networks using genetic algorithm",
+    "authors": "P. Parwekar, S. Rodda",
+    "journal": "International Journal of Applied Metaheuristic Computing, 8(4), pp. 84–98",
+    "year": "2017"
+  },
+  {
+    "title": "Network intrusion detection systems using neural networks",
+    "authors": "S. Rodda",
+    "journal": "INDIA 2017, Springer, pp. 903–908",
+    "year": "2017"
+  },
+  {
+    "title": "Network intrusion detection system to preserve user privacy",
+    "authors": "S. Rodda, U.S.R. Erothi",
+    "journal": "ICCIDE 2017, Springer, pp. 85–94",
+    "year": "2017"
+  },
+  {
+    "title": "Performance analysis of NSL_KDD data set using neural networks with logistic sigmoid activation unit",
+    "authors": "V. Jannela, S. Rodda, S.N.R. Uppuluru, S.C. Koratala, G.V.S.S.S. Chandra Mouli",
+    "journal": "SCI 2016, Vol. 1, Springer, pp. 171–181",
+    "year": "2017"
+  },
+  {
+    "title": "Comparison between genetic algorithm and PSO for wireless sensor networks",
+    "authors": "P. Parwekar, S. Rodda, S. Vani Mounika",
+    "journal": "SCI 2016, Vol. 1, Springer, pp. 403–411",
+    "year": "2017"
+  },
+  {
+    "title": "Class imbalance problem in the network intrusion detection systems",
+    "authors": "S. Rodda, U.S. Erothi",
+    "journal": "ICEEOT 2016, IEEE, pp. 2685–2688",
+    "year": "2016"
+  },
+  {
+    "title": "Predicting user behavior through sessions using the web log mining",
+    "authors": "G. Neelima, S. Rodda",
+    "journal": "HMI 2016, IEEE, pp. 1–5",
+    "year": "2016"
+  },
+  {
+    "title": "An efficient framework for building fuzzy associative classifier using high-dimensional dataset",
+    "authors": "S. Naresh, M.V. Bharathi, S. Rodda",
+    "journal": "Emerging ICT for Bridging the Future (CSI 2014), Vol. 1, Springer, pp. 641–651",
+    "year": "2015"
+  },
+  {
+    "title": "An overview on web usage mining",
+    "authors": "G. Neelima, S. Rodda",
+    "journal": "CSI 2014, Vol. 2, Springer, pp. 647–655",
+    "year": "2015"
+  },
+  {
+    "title": "Fault tolerance in wireless sensor networks: finding primary path",
+    "authors": "P. Parwekar, S. Rodda",
+    "journal": "IC3T 2015, Vol. 1, Springer, pp. 593–604",
+    "year": "2015"
+  },
+  {
+    "title": "A normalized measure for estimating classification rules for multi-class imbalanced datasets",
+    "authors": "S. Rodda, S. Mogalla",
+    "journal": "International Journal of Engineering Science and Technology, 3(4), pp. 3216–3220",
+    "year": "2011"
+  },
+  {
+    "title": "A generator based associative classifier for imbalanced datasets",
+    "authors": "S. Rodda, S. Mogalla",
+    "journal": "International Journal of Engineering Science and Technology, 3(4), pp. 2685–2692",
+    "year": "2011"
+  },
+  {
+    "title": "A rough set based associative classifier",
+    "authors": "S. Rodda, M. Shashi",
+    "journal": "ICCIMA 2007, Vol. 2, IEEE, pp. 291–295",
+    "year": "2007"
+  },
+  {
+    "title": "An improved associative classifier",
+    "authors": "S. Rodda, M. Shashi",
+    "journal": "ICCIMA 2007, Vol. 2, IEEE, pp. 286–290",
+    "year": "2007"
+  }
+],
   "talks": [
     {
       "date": "16 November 2026",
