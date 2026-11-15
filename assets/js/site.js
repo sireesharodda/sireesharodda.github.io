@@ -1,0 +1,20 @@
+fetch('content/site-data.json').then(r=>r.json()).then(d=>{
+ const p=d.profile;
+ document.title=p.name+' | Academic Portfolio';
+ document.getElementById('intro').textContent=p.intro;
+ document.getElementById('institution').textContent=p.institution;
+ document.getElementById('contactInstitution').textContent=p.institution+' · '+p.location;
+ document.getElementById('metrics').innerHTML=d.profile.metrics.map(m=>`<div class="metric"><strong>${m[0]}</strong><span>${m[1]}</span></div>`).join('');
+ document.getElementById('education').innerHTML=d.education.map(x=>`<div class="timeline-item"><strong>${x.degree}</strong><small>${x.institution} · ${x.year}</small></div>`).join('');
+ document.getElementById('experience').innerHTML=d.experience.map(x=>`<div class="timeline-item"><strong>${x.role}</strong><small>${x.place}<br>${x.period}</small></div>`).join('');
+ document.getElementById('researchAreas').innerHTML=d.profile.researchAreas.map(x=>`<span class="tag">${x}</span>`).join('');
+ document.getElementById('fundedProjects').innerHTML=d.projects.map(x=>`<article class="card"><div class="meta">${x.period} · ${x.amount}</div><h3>${x.title}</h3><p>${x.description}</p><p><strong>Funding:</strong> ${x.funding}</p></article>`).join('');
+ document.getElementById('publicationList').innerHTML=d.publications.map(x=>`<article class="publication"><span class="year">${x.year}</span><h3>${x.title}</h3><p>${x.authors}</p><p>${x.venue}</p>${(x.links||[]).map(l=>`<a class="text-link" href="${l.url}">${l.label} ↗</a>`).join(' · ')}</article>`).join('');
+ document.getElementById('talkList').innerHTML=d.talks.length?d.talks.map(x=>`<article class="card"><div class="meta">${x.date||''} ${x.role?'· '+x.role:''}</div><h3>${x.title}</h3><p>${x.event||''} ${x.organizer?'· '+x.organizer:''}</p><p>${x.description||''}</p><p>${(x.files||[]).map(f=>`<a class="text-link" href="${f.url}">${f.label} ↗</a>`).join(' · ')}</p></article>`).join(''):'<article class="card"><h3>Talk archive coming soon</h3><p>Talks, FDPs, invited lectures and workshops will appear here with photographs, slides and certificates.</p></article>';
+ document.getElementById('courseList').innerHTML=d.courses.map(x=>`<article class="card"><div class="meta">COURSE RESOURCES</div><h3>${x.name}</h3><p>${x.description}</p><a class="text-link" href="content/teaching/${x.slug}/README.md">Open course folder guide ↗</a></article>`).join('');
+ document.getElementById('awardList').innerHTML=d.awards.map(x=>`<li>${x}</li>`).join('');
+ document.getElementById('contactLinks').innerHTML=`<a href="mailto:${p.email}">${p.email}</a><a href="${p.linkedin}" target="_blank" rel="noopener">LinkedIn ↗</a><a href="${p.github}" target="_blank" rel="noopener">GitHub ↗</a><a href="${p.orcid}" target="_blank" rel="noopener">ORCID ↗</a><a href="${p.googleScholar}" target="_blank" rel="noopener">Google Scholar ↗</a>`;
+ document.getElementById('year').textContent=new Date().getFullYear();
+});
+document.getElementById('menuToggle').addEventListener('click',()=>document.getElementById('nav').classList.toggle('open'));
+document.querySelectorAll('nav a').forEach(a=>a.addEventListener('click',()=>document.getElementById('nav').classList.remove('open')));

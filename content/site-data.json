@@ -1,0 +1,276 @@
+{
+  "profile": {
+    "name": "Dr. Sireesha Rodda",
+    "role": "Professor, Department of Artificial Intelligence & Data Science",
+    "institution": "GITAM School of Computer Science and Engineering, GITAM (Deemed to be University)",
+    "location": "Visakhapatnam, India",
+    "email": "srodda@gitam.edu",
+    "alternateEmail": "sireesharodda@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/sireesha-rodda/",
+    "github": "https://github.com/sireesharodda",
+    "intro": "Academic leader and researcher with 23+ years of teaching, research and administrative experience. Research interests span machine learning, deep learning, medical imaging and dental diagnostics, sentiment analysis, and agentic AI applications. Former Head of the Department of Computer Science & Engineering (2021–2024), with experience in academic leadership, funded research, industry collaboration and doctoral supervision.",
+    "metrics": [
+      [
+        "23+",
+        "Years of teaching and research experience"
+      ],
+      [
+        "43",
+        "Publications"
+      ],
+      [
+        "341",
+        "Citations"
+      ],
+      [
+        "9",
+        "h-index"
+      ],
+      [
+        "9",
+        "i10-index"
+      ],
+      [
+        "7",
+        "PhD scholars guided to completion"
+      ],
+      [
+        "3",
+        "PhD scholars currently supervised"
+      ],
+      [
+        "~₹100 lakh",
+        "5G Use-Case Lab established"
+      ]
+    ],
+    "researchAreas": [
+      "Machine Learning",
+      "Deep Learning",
+      "Medical Image Analysis and Dental Diagnostics",
+      "Sentiment Analysis and Natural Language Processing",
+      "Network Intrusion Detection",
+      "Data Mining",
+      "Wireless Sensor Networks",
+      "Agentic AI"
+    ],
+    "orcid": "https://orcid.org/0000-0002-2776-1745",
+    "googleScholar": "https://scholar.google.com/citations?user=UC2S_PcAAAAJ"
+  },
+  "experience": [
+    {
+      "role": "Professor – Artificial Intelligence & Data Science",
+      "place": "GITAM School of Computer Science and Engineering, Visakhapatnam",
+      "period": "March 2026 – Present"
+    },
+    {
+      "role": "Professor – Computer Science & Engineering",
+      "place": "GITAM, Visakhapatnam",
+      "period": "June 2016 – February 2026"
+    },
+    {
+      "role": "Head of Department – Computer Science & Engineering",
+      "place": "GITAM, Visakhapatnam",
+      "period": "May 2021 – April 2024"
+    },
+    {
+      "role": "Associate Professor – Computer Science & Engineering",
+      "place": "GITAM, Visakhapatnam",
+      "period": "July 2008 – June 2016"
+    },
+    {
+      "role": "Assistant Professor – Computer Science & Engineering",
+      "place": "GITAM, Visakhapatnam",
+      "period": "August 2003 – June 2008"
+    }
+  ],
+  "education": [
+    {
+      "degree": "Ph.D., Computer Science & Engineering",
+      "institution": "College of Engineering (Autonomous), Andhra University, Visakhapatnam",
+      "year": "2012"
+    },
+    {
+      "degree": "M.S., Computer Science",
+      "institution": "University of Oklahoma, USA",
+      "year": "2003"
+    },
+    {
+      "degree": "B.Tech., Computer Science & System Engineering",
+      "institution": "GITAM, affiliated to Andhra University, Visakhapatnam",
+      "year": "2001"
+    }
+  ],
+  "projects": [
+    {
+      "title": "Network Intrusion Detection System for Sensitive Data",
+      "funding": "SERB, Government of India",
+      "amount": "₹33.01 lakh",
+      "period": "2015–2018",
+      "description": "Principal Investigator. Research project on network intrusion detection for sensitive data. Reference: SB/FTP/ETA-0180/2014."
+    },
+    {
+      "title": "Machine Learning Approaches for Dental Image Analysis",
+      "funding": "GITAM Research Seed Grant",
+      "amount": "₹2 lakh",
+      "period": "2021–2022",
+      "description": "Research applying machine learning approaches to dental image analysis. Reference: 2021/0048."
+    },
+    {
+      "title": "Learning Content Development",
+      "funding": "SmartGen Technologies Ltd.",
+      "amount": "₹45.78 lakh",
+      "period": "2023–2025",
+      "description": "Industry consultancy for learning content development. Reference: GITAM/RDC/2023/289."
+    },
+    {
+      "title": "5G Use-Case Lab",
+      "funding": "Department of Telecommunications, Government of India",
+      "amount": "~₹100 lakh",
+      "period": "2023",
+      "description": "Institutional infrastructure initiative established with 80:20 DoT co-funding during the HOD tenure."
+    }
+  ],
+  "awards": [
+    "IEEE Senior Member (since 15 July 2021)",
+    "Life Member, Computer Society of India (since 16 May 2015)",
+    "Kalpana Chawla Woman of Courage Award, GITAM (2023)",
+    "Uttama Acharya Puraskar, Indian Servers (2019)",
+    "Recognition for GITAM as India’s largest CSI student branch under her leadership as CSI Student Branch Coordinator (2018)",
+    "Highest Committed Student Branch Activist recognition, Computer Society of India (2018)",
+    "CSI National-level Active Participation (Woman) Award (2016)"
+  ],
+  "publications": [
+    {
+      "year": "2025",
+      "title": "Comparative review on automated test failure detection and healing tools",
+      "authors": "Kumar, Nammi Hemanth; Rodda, Sireesha",
+      "venue": "SSRG International Journal of Electrical and Electronics Engineering, 12(2), 113–123",
+      "links": []
+    },
+    {
+      "year": "2025",
+      "title": "Dental image analysis for caries recognition domain: AI/ML",
+      "authors": "Challakonda, Deepthika; Raza, Muskaan; Koppisetti, Chinni Krishna; Manikonda, Akshay; Rodda, Sireesha",
+      "venue": "International Conference on Machine Learning, IoT and Big Data, Springer Nature",
+      "links": []
+    },
+    {
+      "year": "2024",
+      "title": "Enhancing decision making through aspect based sentiment analysis using deep learning models",
+      "authors": "Puvvula, Deepika; Rodda, Sireesha",
+      "venue": "Mathematical Modelling of Engineering Problems, 11(10)",
+      "links": []
+    },
+    {
+      "year": "2024",
+      "title": "A multi-modal automated driver alert system based on deep learning",
+      "authors": "Dereddi, Nishanth Reddy; Rodda, Sireesha; Buddharaju, Soujanya",
+      "venue": "International Conference on Computer & Communication Technologies (IC3T 2024), Springer Nature Singapore",
+      "links": []
+    },
+    {
+      "year": "2022",
+      "title": "Penguin rider optimization algorithm-based deep recurrent neural network for sentiment classification of political Twitter data",
+      "authors": "Harendranath, Vegi; Rodda, Sireesha",
+      "venue": "International Journal of Web Services Research, 19(1), 1–25",
+      "links": []
+    },
+    {
+      "year": "2022",
+      "title": "Dynamic pagerank frequent subgraph mining by GraphX in the distributed system",
+      "authors": "Priyadarshini, Sadhana; Rodda, Sireesha",
+      "venue": "2022 International Conference on Automation, Computing and Renewable Systems (ICACRS), IEEE",
+      "links": []
+    }
+  ],
+  "talks": [
+    {
+      "date": "16 November 2026",
+      "title": "Designing, Deploying, and Maintaining Reliable Machine Learning Models in Production",
+      "event": "3-week Student Development Program on Machine Learning and Deep Learning Model Building",
+      "organizer": "ACM-W Stanley Student Chapter, Stanley College of Engineering and Technology for Women, Hyderabad",
+      "role": "Opening Session Speaker",
+      "description": "Practical session on designing, deploying and maintaining reliable machine learning models in production."
+    },
+    {
+      "date": "17–18 March 2026",
+      "title": "AI in Health Care Management: Emerging Trends, Challenges and Future Directions",
+      "event": "National Seminar on Artificial Intelligence in Health Care Management",
+      "organizer": "Acharya Nagarjuna University",
+      "role": "Expert Speaker & Panelist",
+      "description": "Contributed to discussions on responsible, human-centred use of AI in clinical practice."
+    },
+    {
+      "date": "11 February 2026",
+      "title": "AI for Literature Review & Research Gap Identification",
+      "event": "FDP on Effective Use of AI Tools in Academic Research",
+      "organizer": "Centurion University of Technology and Management",
+      "role": "Resource Person",
+      "description": "Session for faculty members and research scholars across disciplines."
+    },
+    {
+      "date": "8–21 January 2026",
+      "title": "Transformative Learning through Interdisciplinary AI and ML Applications in Emerging Domains",
+      "event": "Faculty Development Programme",
+      "organizer": "Integral University, Lucknow",
+      "role": "Invited Resource Person",
+      "description": "Delivered sessions on practical applications of AI and ML."
+    },
+    {
+      "date": "8 January 2026",
+      "title": "Integrating AI Tools into Teaching-Learning",
+      "event": "Five-Day Online FDP on AI Tools for Teaching-Learning: Live Demonstration",
+      "organizer": "Aditya Institute of Technology and Management, Tekkali",
+      "role": "Resource Person & Expert Speaker",
+      "description": "Live demonstrations of AI tools for teaching and learning."
+    },
+    {
+      "date": "11 November 2025",
+      "title": "Future of Education & Employment for the Age of AI",
+      "event": "Education Redesign podcast",
+      "organizer": "Education Redesign",
+      "role": "Podcast Guest",
+      "description": "Discussed personalised learning, human skills, lifelong employability and curriculum redesign."
+    },
+    {
+      "date": "3 June 2025",
+      "title": "Exploring the Role of Machine Learning in Modern Dentistry",
+      "event": "Research Lighthouse",
+      "organizer": "GITAM Dental College and Hospital, Visakhapatnam",
+      "role": "Guest Speaker",
+      "description": "Covered AI, machine learning and deep learning in dental diagnostics and decision-making."
+    }
+  ],
+  "courses": [
+    {
+      "name": "Machine Learning",
+      "slug": "machine-learning",
+      "description": "Lecture slides, notes, practical notebooks, assignments and evaluation resources."
+    },
+    {
+      "name": "Deep Learning",
+      "slug": "deep-learning",
+      "description": "Conceptual material, implementation notebooks, assignments and case studies."
+    },
+    {
+      "name": "Agentic AI",
+      "slug": "agentic-ai",
+      "description": "Agent architectures, RAG, tool use, LangGraph, MCP, multi-agent systems and deployment labs."
+    },
+    {
+      "name": "Computer Vision",
+      "slug": "computer-vision",
+      "description": "Image processing, feature extraction, deep learning and visual recognition resources."
+    },
+    {
+      "name": "Data Mining",
+      "slug": "data-mining",
+      "description": "Data preprocessing, classification, clustering, association rules and mining algorithms."
+    },
+    {
+      "name": "Quantum Computing",
+      "slug": "quantum-computing",
+      "description": "Introductory quantum computing concepts and quantum machine learning practicals."
+    }
+  ]
+}
